@@ -1,0 +1,11 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D17, D18, D19, D2, D20, D21, D22, D23, D24, D25, D26, D27, D28, D29, D3, D30, D31, D32, D33, D34, D35, D36, D37, D38, D39, D4, D40, D41, D42, D43, D44, D45, D46, D47, D48, D49, D5, D50, D51, D52, D53, D54, D55, D56, D6, D7, D8, D9",Diode_SOD-123,56,Diode,
+"H1, H10, H2, H3, H4, H5, H6, H7, H8, H9",MountingHole_2.2mm_M2,10,MountingHole,
+J1,JST_S2B-PH-K-S_LF__SN_,1,S2B-PH-K-S_LF__SN_,
+"S1, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S2, S20, S21, S22, S23, S24, S25, S26, S27, S28, S29, S3, S30, S31, S32, S33, S34, S35, S36, S37, S38, S39, S4, S40, S41, S42, S43, S44, S45, S46, S47, S48, S49, S5, S50, S55, S56, S6, S7, S8, S9",Hotswap_MX_1.00u,52,Keyswitch,
+"S51, S54",Hotswap_MX_1.50u,2,Keyswitch,
+"S52, S53",Hotswap_MX_1.50u_90deg,2,Keyswitch,
+S57,SW_EG1215AA,1,EG1215AA,
+SW1,SW_1825910-6-4,1,1825910-6,
+SW2,RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm,1,RotaryEncoder,
+U1,nice_nano,1,nice_nano,
